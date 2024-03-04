@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**krushtonski/krushtonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![Linkedin Badge](https://img.shields.io/badge/krusht?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krusht/)]([https://www.linkedin.com/in/krusht/])
 [![Instagram Badge](https://img.shields.io/badge/-@katehrushton-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/katehrushton/)](https://instagram.com/katerushton)
 [![Gmail Badge](https://img.shields.io/badge/-krushtie33-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krushtie33@gmail.com)](mailto: krushtie33@gmail.com)
