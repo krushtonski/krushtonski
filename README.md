@@ -12,11 +12,6 @@ Tech Stack
   <source media="(prefers-color-scheme: light)" srcset="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=5%>
   <img alt="Shows the logo for python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=5%>
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://brandslogos.com/j/javascript-logo/", width=5%>
-  <source media="(prefers-color-scheme: light)" srcset="https://brandslogos.com/j/javascript-logo-vector/", width=5%>
-  <img alt="Shows the logo for JavaScript" src="https://brandslogos.com/j/javascript-logo-black-and-white/", width=5%>
-</picture>
 <br>
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/krusht/)!
