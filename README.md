@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## I'm Kate Rushton!
+# I'm Kate Rushton!
 <br>
 
 I'm a Data Science student at Hyperion Dev with skills in UX, Community Management, Analystics and full-time adventure seeker. 
 
-### Tech Stack
+Tech Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://brandslogos.com/wp-content/uploads/images/large/python-logo-1.png", width=10%>
@@ -15,7 +15,7 @@ I'm a Data Science student at Hyperion Dev with skills in UX, Community Manageme
 <br>
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/krusht/)!
-
+<br><br>
 Feel free to contact me :yum:
 <br><br>
 <a href="https://linkedin.com/in/krusht" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-krusht-informational"></a>
