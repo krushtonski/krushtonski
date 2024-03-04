@@ -1,11 +1,16 @@
-### Hi there. I am Kate 👋
+### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-krusht?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krusht/)](https://www.linkedin.com/in/krusht/)
-[![Instagram Badge](https://img.shields.io/badge/-@katehrushton-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/katehrushton/)](https://instagram.com/katerushton)
-[![Gmail Badge](https://img.shields.io/badge/-krushtie33-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krushtie33@gmail.com)](mailto: krushtie33@gmail.com)
+## I'm Kate! :sunglasses:
+<br>
 
-Welcome to my profile! I'm a data analyst, UX Manager, community manager and full-time adventure seeker. 
-
-I have previously been a UX Manager @Hilti, Energy Analyst @PAConsulting, and Community Manager consulted @OpenIdeo. 
+I'm a Data Analyst with skills in UX, Community Management, Analystics and full-time adventure seeker. 
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/krusht/)!
+
+Feel free to contact me :yum:
+<br><br>
+<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
+<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
+<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
+<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
