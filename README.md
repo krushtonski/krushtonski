@@ -14,7 +14,7 @@ Tech Stack
 </picture>
 <br>
 <br>
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/krusht/)!
+Thanks for visiting and I'd love to connect!
 <br>
 <br>
 Feel free to contact me :yum:
