@@ -8,9 +8,14 @@ I'm a Data Science student at Hyperion Dev with skills in UX, Community Manageme
 Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://brandslogos.com/wp-content/uploads/images/large/python-logo-1.png", width=10%>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=10%>
-  <img alt="Shows the logo for python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=10%>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandslogos.com/wp-content/uploads/images/large/python-logo-1.png", width=5%>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=5%>
+  <img alt="Shows the logo for python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=5%>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandslogos.com/j/javascript-logo/", width=5%>
+  <source media="(prefers-color-scheme: light)" srcset="https://brandslogos.com/j/javascript-logo-vector/", width=5%>
+  <img alt="Shows the logo for JavaScript" src="https://brandslogos.com/j/javascript-logo-black-and-white/", width=5%>
 </picture>
 <br>
 
