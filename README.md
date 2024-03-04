@@ -8,6 +8,11 @@ I'm a Data Science student at Hyperion Dev with skills in UX, Community Manageme
 ### Tech Stack
 
 - Python
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandslogos.com/wp-content/uploads/images/large/python-logo-1.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
+  <img alt="Shows the logo for python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
+</picture>
 - JavaScript, React
 - CSS/HTML5
 
