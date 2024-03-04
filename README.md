@@ -15,8 +15,10 @@ Tech Stack
 <br>
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/krusht/)!
-<br><br>
+<br>
+<br>
 Feel free to contact me :yum:
-<br><br>
+<br>
+<br>
 <a href="https://linkedin.com/in/krusht" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-krusht-informational"></a>
 <a href="mailto:krushtie33@gmail.com"><img src="https://img.shields.io/badge/Email-krushtie33-orange"></a>
