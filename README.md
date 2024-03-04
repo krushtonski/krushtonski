@@ -3,7 +3,13 @@
 ## I'm Kate Rushton!
 <br>
 
-I'm a Data Analyst with skills in UX, Community Management, Analystics and full-time adventure seeker. 
+I'm a Data Science student at Hyperion Dev with skills in UX, Community Management, Analystics and full-time adventure seeker. 
+
+### Tech Stack
+
+- Python
+- JavaScript, React
+- CSS/HTML5
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/krusht/)!
 
