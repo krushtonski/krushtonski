@@ -7,9 +7,7 @@ I studied Data Science at Hyperion Dev with skills in UX, Community Management, 
 
 Tech Stack
 
-<picture>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-</picture>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 <br>
