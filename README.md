@@ -12,6 +12,11 @@ Tech Stack
   <source media="(prefers-color-scheme: light)" srcset="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=5%>
   <img alt="Shows the logo for python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=5%>
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png)", width=5%>
+  <img alt="Shows the logo for JavaScript" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png", width=5%>
+</picture>
+
 <br>
 <br>
 Thanks for visiting and I'd love to connect!
