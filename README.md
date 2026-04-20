@@ -3,7 +3,7 @@
 # I'm Kate Rushton!
 <br>
 
-I studied Data Science at Hyperion Dev with skills in UX, Community Management, and Analytics. 
+I am a Community Manager with skills in UX/UI, Product, and Analytics. 
 
 Tech Stack
 
